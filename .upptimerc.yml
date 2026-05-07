@@ -33,6 +33,7 @@ status-website:
   #baseUrl: /
   cname: status.datariesgos.com
   logoUrl: https://raw.githubusercontent.com/Data-Innova/monitoreo-datariesgos/refs/heads/master/assets/favicon-datariesgo.webp
+  icon: https://raw.githubusercontent.com/Data-Innova/monitoreo-datariesgos/refs/heads/master/assets/favicon-datariesgo.webp
   name: Datariesgos - Status
   
   introTitle: "Estado de los Servicios de Datariesgos"
