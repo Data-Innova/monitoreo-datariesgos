@@ -1,7 +1,7 @@
-url: https://app.app.datariesgos.com/validador/apiPublica/healthChecks
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-07T20:46:11.520Z
+url: https://app.datariesgos.com/validador/apiPublica/healthChecks
+status: up
+code: 200
+responseTime: 244
+lastUpdated: 2026-05-07T20:47:05.975Z
 startTime: 2026-05-07T20:45:49.904Z
 generator: Upptime <https://github.com/upptime/upptime>
