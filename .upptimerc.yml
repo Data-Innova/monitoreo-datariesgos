@@ -28,7 +28,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #baseUrl: /
   cname: status.datariesgos.com
-  logoUrl: https://raw.githubusercontent.com/Data-Innova/monitoreo-datariesgo/refs/heads/master/assets/favicon-datariesgo.webp
+  logoUrl: https://raw.githubusercontent.com/Data-Innova/monitoreo-datariesgos/refs/heads/master/assets/favicon-datariesgo.webp
   name: Datariesgos - Status
   
   introTitle: "Estado de los Servicios de Datariesgos"
