@@ -8,7 +8,7 @@ sites:
     url: https://app.datariesgos.com/validador/healthBatch/healthChecks/health
   - name: Datariesgos - Back Web
     group: Backend
-    url: https://app.app.datariesgos.com/validador/apiPublica/healthChecks
+    url: https://app.datariesgos.com/validador/apiPublica/healthChecks
   - name: Datariesgos - WebService
     group: Backend
     url: https://app.datariesgos.com/validador/healthWs/healthChecks
