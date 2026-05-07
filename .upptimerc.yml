@@ -1,31 +1,61 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Data-Innova # Your GitHub organization or username, where this repository lives
+repo: monitoreo-datariesgos # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Datariesgos - Batch
+    group: Backend
+    url: https://app.datariesgos.com/validador/healthBatch/healthChecks/health
+  - name: Datariesgos - Back Web
+    group: Backend
+    url: https://app.app.datariesgos.com/validador/apiPublica/healthChecks
+  - name: Datariesgos - WebService
+    group: Backend
+    url: https://app.datariesgos.com/validador/healthWs/healthChecks
+    
+  - name: Datariesgos - Front Web
+    group: Frontend
+    url: https://validador.datariesgos.com/
+  - name: Datariesgos - Pagina Web
+    group: Frontend
+    url: https://datariesgos.com/
 
+site:
+  logoUrl: https://raw.githubusercontent.com/Data-Innova/monitoreo-datariesgos/refs/heads/master/assets/favicon-datariesgo.webp
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #baseUrl: /
+  cname: status.datariesgos.com
+  logoUrl: https://raw.githubusercontent.com/Data-Innova/monitoreo-datariesgo/refs/heads/master/assets/favicon-datariesgo.webp
+  name: Datariesgos - Status
+  
+  introTitle: "Estado de los Servicios de Datariesgos"
+  introMessage: |
+    En esta página puedes consultar el estado operativo de los servicios de **Datariesgos**.
+    Las actualizaciones reflejan la disponibilidad en tiempo real.
+    [Datariesgos](https://www.datariesgos.com/)
+    
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      
+  css: |
+    :root {
+      --upptime-primary: #2c1464;
+      --upptime-secondary: #632c93;
+      --upptime-accent: #2F6FED;
+    }
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    header {
+      box-shadow: none;
+    }
+  
+workflowSchedule:
+  graphs: "0/2 * * * *"
+  responseTime: "*/15 * * * *"
+  staticSite: "0 5 * * *"
+  summary: "0 5 * * *"
+  updates: "0 5 * * *"
+  uptime: "*/5 * * * *"
