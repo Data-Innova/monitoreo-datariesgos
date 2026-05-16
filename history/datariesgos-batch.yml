@@ -1,7 +1,7 @@
 url: https://app.datariesgos.com/validador/healthBatch/healthChecks/health
 status: up
 code: 200
-responseTime: 200
-lastUpdated: 2026-05-16T14:01:07.576Z
+responseTime: 150
+lastUpdated: 2026-05-16T15:11:57.068Z
 startTime: 2026-05-07T20:45:49.339Z
 generator: Upptime <https://github.com/upptime/upptime>
