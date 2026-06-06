@@ -1,7 +1,7 @@
 url: https://app.datariesgos.com/validador/healthBatchCaller/healthChecks/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-06T18:12:08.185Z
+status: up
+code: 200
+responseTime: 183
+lastUpdated: 2026-06-06T18:58:43.514Z
 startTime: 2026-05-07T20:55:25.626Z
 generator: Upptime <https://github.com/upptime/upptime>
