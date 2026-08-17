@@ -109,15 +109,15 @@
     "url": "https://datariesgos.com/",
     "icon": "https://icons.duckduckgo.com/ip3/datariesgos.com.ico",
     "slug": "datariesgos-pagina-web",
-    "status": "down",
+    "status": "up",
     "uptime": "97.86%",
-    "uptimeDay": "90.67%",
-    "uptimeWeek": "84.33%",
-    "uptimeMonth": "93.03%",
+    "uptimeDay": "90.39%",
+    "uptimeWeek": "84.29%",
+    "uptimeMonth": "93.02%",
     "uptimeYear": "97.86%",
     "time": 376,
-    "timeDay": 293,
-    "timeWeek": 292,
+    "timeDay": 300,
+    "timeWeek": 293,
     "timeMonth": 328,
     "timeYear": 376,
     "dailyMinutesDown": {
@@ -140,7 +140,7 @@
       "2026-08-14": 264,
       "2026-08-15": 184,
       "2026-08-16": 77,
-      "2026-08-17": 88
+      "2026-08-17": 92
     }
   }
 ]
