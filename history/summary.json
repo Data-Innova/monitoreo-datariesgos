@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 282,
-    "timeDay": 1912,
-    "timeWeek": 411,
+    "timeDay": 2106,
+    "timeWeek": 413,
     "timeMonth": 290,
     "timeYear": 282,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 193,
-    "timeDay": 197,
+    "timeDay": 198,
     "timeWeek": 200,
-    "timeMonth": 203,
+    "timeMonth": 204,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2026-06-06": 51,
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 191,
-    "timeDay": 200,
+    "timeDay": 189,
     "timeWeek": 200,
-    "timeMonth": 196,
+    "timeMonth": 197,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2026-06-06": 47,
@@ -74,8 +74,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 178,
-    "timeDay": 185,
-    "timeWeek": 189,
+    "timeDay": 178,
+    "timeWeek": 190,
     "timeMonth": 188,
     "timeYear": 178,
     "dailyMinutesDown": {
@@ -95,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 238,
-    "timeDay": 235,
-    "timeWeek": 248,
+    "timeDay": 222,
+    "timeWeek": 249,
     "timeMonth": 251,
     "timeYear": 238,
     "dailyMinutesDown": {
@@ -109,17 +109,17 @@
     "url": "https://datariesgos.com/",
     "icon": "https://icons.duckduckgo.com/ip3/datariesgos.com.ico",
     "slug": "datariesgos-pagina-web",
-    "status": "down",
-    "uptime": "97.53%",
-    "uptimeDay": "91.60%",
-    "uptimeWeek": "92.14%",
-    "uptimeMonth": "90.99%",
-    "uptimeYear": "97.53%",
-    "time": 368,
-    "timeDay": 312,
-    "timeWeek": 334,
+    "status": "up",
+    "uptime": "97.47%",
+    "uptimeDay": "84.99%",
+    "uptimeWeek": "91.34%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "97.47%",
+    "time": 367,
+    "timeDay": 313,
+    "timeWeek": 332,
     "timeMonth": 325,
-    "timeYear": 368,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2026-08-01": 175,
       "2026-07-31": 17,
@@ -147,7 +147,7 @@
       "2026-08-23": 153,
       "2026-08-24": 48,
       "2026-08-25": 39,
-      "2026-08-26": 99
+      "2026-08-26": 194
     }
   }
 ]
