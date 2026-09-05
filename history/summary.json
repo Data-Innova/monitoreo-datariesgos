@@ -13,7 +13,7 @@
     "time": 281,
     "timeDay": 242,
     "timeWeek": 245,
-    "timeMonth": 294,
+    "timeMonth": 295,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2026-06-06": 56,
@@ -34,7 +34,7 @@
     "time": 193,
     "timeDay": 198,
     "timeWeek": 201,
-    "timeMonth": 204,
+    "timeMonth": 205,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2026-06-06": 51,
@@ -109,16 +109,16 @@
     "url": "https://datariesgos.com/",
     "icon": "https://icons.duckduckgo.com/ip3/datariesgos.com.ico",
     "slug": "datariesgos-pagina-web",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "85.16%",
-    "uptimeWeek": "91.44%",
-    "uptimeMonth": "89.14%",
-    "uptimeYear": "97.26%",
+    "status": "up",
+    "uptime": "97.24%",
+    "uptimeDay": "82.73%",
+    "uptimeWeek": "91.10%",
+    "uptimeMonth": "89.06%",
+    "uptimeYear": "97.24%",
     "time": 368,
-    "timeDay": 528,
-    "timeWeek": 409,
-    "timeMonth": 322,
+    "timeDay": 484,
+    "timeWeek": 404,
+    "timeMonth": 320,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2026-08-05": 125,
@@ -149,7 +149,7 @@
       "2026-08-30": 208,
       "2026-09-01": 352,
       "2026-09-02": 59,
-      "2026-09-05": 214
+      "2026-09-05": 249
     }
   }
 ]
