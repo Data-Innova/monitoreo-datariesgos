@@ -1,7 +1,7 @@
 url: https://app.datariesgos.com/validador/healthWs/healthChecks
-status: up
-code: 200
-responseTime: 16
-lastUpdated: 2026-10-02T01:56:43.982Z
+status: down
+code: 503
+responseTime: 15
+lastUpdated: 2026-10-02T06:49:48.741Z
 startTime: 2026-05-07T20:46:13.752Z
 generator: Upptime <https://github.com/upptime/upptime>
